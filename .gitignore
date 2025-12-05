@@ -208,7 +208,7 @@ __marimo__/
 
 # Fichiers de données à ignorer
 #*.csv
-*.xlsx
+#*.xlsx
 *.xls
 data/
 
