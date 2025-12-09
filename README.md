@@ -1,4 +1,4 @@
-1# Projet Python pour la Data Science
+# Projet Python pour la Data Science
  Auteurs : *Isaline JOUVE, Romain RATAJCZYK, Vincent VASYLCHENKO*  
 
 # Sujet :
