@@ -210,7 +210,7 @@ __marimo__/
 #*.csv
 #*.xlsx
 #.xls
-data/
+#data/
 
 # Fichiers Python temporaires
 __pycache__/
