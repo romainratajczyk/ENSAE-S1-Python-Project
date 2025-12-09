@@ -15,6 +15,9 @@ Dans quelle mesure peut-on établir une corrélation entre la progression du vot
 
 # Modèle utilisé : 
 
+# Exécution du projet : 
+
+
 # Données utilisées :
 - [Ministère de l'intérieur](https://www.data.gouv.fr/pages/donnees-des-elections-et-referendums/) (Base de Données sur les élections et référendums en France), on s'intéresse aux bases de résultats des élections de 2014 et 2020.
 - [Meteonet](https://meteonet.umr-cnrm.fr/), données météo fournies par Météo France toutes les 6 minutes pour 532 stations dans le quart Sud-Est de la France.
