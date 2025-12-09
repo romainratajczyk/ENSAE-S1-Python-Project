@@ -1,15 +1,17 @@
 1# Projet Python pour la Data Science
- Auteurs : *Isaline, Romain, Vincent Vasylchenko*  
+ Auteurs : *Isaline JOUVE, Romain RATAJCZYK, Vincent VASYLCHENKO*  
 
 # Sujet :
 <div align="justify">
-En 2020, les élections municipales ont vu l'émergence d’Europe Écologie Les Verts dans plusieurs grandes villes de France, auparavant aux mains de partis plus traditionnels. Les élections se tiennent dans un contexte de crise sanitaire liée à la propagation de la Covid-19 dans le pays, les premières municipales pour le groupe macroniste au pouvoir et sont marquées par un taux d’abstention record pour des municipales : 55 % au premier tour et 58 % au second, soit plus de 20 points de plus qu’au second tour des élections municipales de 2014.
-L'idée est d'étudier les résultats électoraux aux municipales et de mettre en avant un lien ou non entre l'évolution du vote en faveur des écologistes par rapport à l'évolution de gentrification, en supposant qu'une ville déjà fortement gentrifiée n'évolueront pas spécifiquement leur vote, alors que celles en cours de gentrification voient l'arrivée et l'attractivité d'une population plus enclin à ce poste. Nous nous sommes également demandé si les résultats ne seraient pas le fait de l'évolution d'un vote de gauche en faveur de EELV, portée par leur percée inattendue aux élections européennes de 2019.
-Etant donne que les nuances politiques sont indiqués pour les communes de plus de 3500 habitants et que notre étude peut se restreindre à ces communes, nous filtrons sur les communes de plus de 3500 habitants.
-Pour cela, les données mobilisées sont celles des résultats électoraux de 2014 et 2020, accessibles sur data.gouv.fr, à croiser avec l'évolution de données socio-démographique comme la catégorie socio-professionnelle, l'éducation, l'emploi.
+Les élections municipales de 2020 ont marqué une forte progression d’Europe Écologie Les Verts (EELV) dans plusieurs grandes villes françaises, avec un certain nombre de particularités : crise sanitaire liée à la Covid-19, premières municipales pour le pouvoir exécutif et son parti, et un niveau d’abstention historiquement élevé (55 % au premier tour, 58 % au second).
+
+Ce projet vise à analyser les résultats des municipales de 2014 et 2020 afin d’examiner l’évolution du vote écologiste et d’évaluer s’il existe un lien avec des dynamiques socio-démographiques, notamment la gentrification. L’hypothèse de départ est que les villes déjà très gentrifiées présentent une stabilité dans leur vote, tandis que les communes en cours de gentrification pourraient connaître une progression plus marquée du vote en faveur d’EELV (portée par l’arrivée de populations et par une image renvoyée plus sensibles aux enjeux écologistes).
+Nous nous sommes également demandé si les résultats ne seraient pas le fait du repositionnement d’un vote de gauche vers EELV, portée par leur percée aux élections européennes de 2019.
+
+L’étude se concentre sur les communes de plus de 3 500 habitants, seuil à partir duquel les nuances politiques sont renseignées. Les données mobilisées incluent les résultats électoraux de 2014 et 2020 (data.gouv.fr) ainsi que des indicateurs socio-démographiques tels que la catégorie socio-professionnelle, le niveau d’éducation ou encore l’emploi.
 
 # Problématique : 
-Est-il possible de corréler l'évolution du vote écolo dans les grandes villes avec des variables socio-démographiques ?
+Dans quelle mesure peut-on établir une corrélation entre la progression du vote écologiste dans les communes françaises de plus de 3 500 habitants et l’évolution de leurs caractéristiques socio-démographiques, notamment liées à la gentrification ?
 
 # Modèle utilisé : 
 
