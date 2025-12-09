@@ -209,7 +209,7 @@ __marimo__/
 # Fichiers de données à ignorer
 #*.csv
 #*.xlsx
-*.xls
+#.xls
 data/
 
 # Fichiers Python temporaires
