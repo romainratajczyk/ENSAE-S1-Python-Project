@@ -11,7 +11,7 @@ Nous nous sommes également demandé si les résultats ne seraient pas le fait d
 L’étude se concentre sur les communes de plus de 3 500 habitants, seuil à partir duquel les nuances politiques sont renseignées. Les données mobilisées incluent les résultats électoraux de 2014 et 2020 (data.gouv.fr) ainsi que des indicateurs socio-démographiques tels que la catégorie socio-professionnelle, le niveau d’éducation ou encore l’emploi.
 
 # Problématique : 
-Dans quelle mesure peut-on établir une corrélation entre la progression du vote écologiste dans les communes françaises de plus de 3 500 habitants et l’évolution de leurs caractéristiques socio-démographiques, notamment liées à la gentrification ?
+Dans quelle mesure peut-on établir une corrélation entre la progression du vote pour le bloc gauche et écologiste dans les communes françaises de plus de 3 500 habitants et l’évolution de leurs caractéristiques socio-démographiques, notamment liées à la gentrification ?
 
 # Modèle utilisé : 
 
