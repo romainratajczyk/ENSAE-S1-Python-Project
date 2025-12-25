@@ -19,8 +19,5 @@ Dans quelle mesure peut-on établir une corrélation entre la progression du vot
 
 
 # Données utilisées :
-- [Ministère de l'intérieur](https://www.data.gouv.fr/pages/donnees-des-elections-et-referendums/) (Base de Données sur les élections et référendums en France), on s'intéresse aux bases de résultats des élections de 2014 et 2020.
-- [Meteonet](https://meteonet.umr-cnrm.fr/), données météo fournies par Météo France toutes les 6 minutes pour 532 stations dans le quart Sud-Est de la France.
-- [Base de données sur les communes françaises](https://www.data.gouv.fr/fr/datasets/communes-de-france-base-des-codes-postaux/), contenant notamment leurs coordonnées GPS.
-- [Base de données Geojson des forêts françaises](https://transcode.geo.data.gouv.fr/services/5e2a1f74fa4268bc255efbc3/feature-types/ms:PARC_PUBL_FR?format=GeoJSON&projection=WGS84)
+
 
