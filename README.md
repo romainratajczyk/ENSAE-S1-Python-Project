@@ -46,3 +46,5 @@ Le projet repose sur le croisement de plusieurs bases de données issues de la s
   * [Recensement de la Population (RP)]() : Exploitation des bases "Population" et "Diplômes" pour les années 2014, 2017, 2020 et 2022. Ces fichiers permettent de suivre l'évolution de la part des cadres (CS3) et des niveaux d'éducation par commune.
 
   * [Code Officiel Géographique (COG)]((https://www.data.gouv.fr/datasets/code-officiel-geographique-cog)) : Utilisation des [tables de correspondance des codes communes]() pour assurer une fusion exacte des sources malgré les fusions de communes survenues entre 2014 et 2020.
+
+Il faut encore corriger certains liens (pour données socio-économiques)
