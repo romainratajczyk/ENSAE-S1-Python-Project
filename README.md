@@ -15,9 +15,29 @@ Dans quelle mesure peut-on établir une corrélation entre la progression du vot
 
 # Modèle utilisé : 
 
+Le projet articule deux approches complémentaires pour traiter la problématique de la gentrification et du vote : 
+Approche Économétrique :
+
+*Utilisation de modèles de Régression Linéaire Multiple (MCO) via la librairie statsmodels sur les données municipales et présidentielles.
+
+Approche Machine Learning (Exploration) :
+
+*Random Forest Regressor : Utilisé pour capter des non-linéarités et des effets de seuil (par exemple, l'impact de la densité qui peut différer selon la taille de la ville).
+
+
 # Exécution du projet : 
 
 
 # Données utilisées :
+projet repose sur le croisement de bases de données massives issues de la statistique publique :
 
+    Données Électorales (Ministère de l'Intérieur / data.gouv.fr) : Résultats des élections municipales de 2014 et 2020 par commune.
+
+    Données Socio-Économiques (INSEE) :
+
+        Filosofi : Revenus fiscaux localisés et taux de pauvreté (millésimes 2013/2019).
+
+        Recensement de la Population : Structure par diplôme et catégories socio-professionnelles (focus sur la part des cadres).
+
+        Données géographiques : Utilisation des codes communes (COG) pour assurer la fusion exacte entre les sources.
 
