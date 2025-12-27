@@ -1,4 +1,4 @@
-# Projet Python pour la Data Science
+# Python pour la Data Science : Analyse des Déterminants Socio-Économiques du Vote Municipal
  Auteurs : *Isaline JOUVE, Romain RATAJCZYK, Vincent VASYLCHENKO*  
 
 # Sujet :
@@ -11,7 +11,7 @@ Nous nous sommes également demandé si les résultats ne seraient pas le fait d
 L’étude se concentre sur les communes de plus de 3 500 habitants, seuil à partir duquel les nuances politiques sont renseignées. Les données mobilisées incluent les résultats électoraux de 2014 et 2020 (data.gouv.fr) ainsi que des indicateurs socio-démographiques tels que la catégorie socio-professionnelle, le niveau d’éducation ou encore l’emploi.
 
 # Problématique : 
-Dans quelle mesure peut-on établir une corrélation entre la progression du vote pour le bloc gauche et écologiste dans les communes françaises de plus de 3 500 habitants et l’évolution de leurs caractéristiques socio-démographiques, notamment liées à la gentrification ?
+> Dans quelle mesure peut-on établir une corrélation entre la progression du vote pour le bloc gauche et écologiste dans les communes françaises de plus de 3 500 habitants et l’évolution de leurs caractéristiques socio-démographiques, notamment liées à la gentrification ?
 
 # Modèle utilisé : 
 
@@ -28,6 +28,9 @@ Approche Machine Learning (Exploration) :
 * ACP (Analyse en Composantes Principales) : Pour visualiser l'espace sociologique des communes et identifier les variables les plus corrélées à la dynamique électorale via le cercle des corrélations.
 
 # Exécution du projet : 
+Pour l'exécution du projet, il faut avoir installé les dépendances (`pip install -r requirements.txt`). Ensuite, il suffit d'exécuter successivement les cellules des notebooks dans cet ordre : 
+1. **[Preparation des données](data_preparation.ipynb)** : Ce notebook récupère les sources brutes et génère le fichier de données consolidé.
+2. **[Analyse](Rapport_analyse.ipynb)** : Ce notebook contient le rapport final, les visualisations et les modèles.
 
 # Données utilisées :
 
