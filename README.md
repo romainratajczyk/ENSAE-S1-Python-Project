@@ -20,4 +20,9 @@ Dans quelle mesure peut-on établir une corrélation entre la progression du vot
 
 # Données utilisées :
 
-
+https://www.insee.fr/fr/statistiques/2862015#consulter (Diplôme 2014)
+https://www.insee.fr/fr/statistiques/7704080#consulter (Diplome 2020)
+https://www.insee.fr/fr/statistiques/3137409#consulter (Population 2014)
+https://www.insee.fr/fr/statistiques/7704076#dictionnaire (Population 2020)
+https://www.insee.fr/fr/statistiques/2388572#consulter (Revenus 2013)
+https://www.insee.fr/fr/statistiques/6036902?sommaire=6036904 (Revenus 2019)
