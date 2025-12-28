@@ -28,9 +28,7 @@ Approche Machine Learning (Exploration) :
 * ACP (Analyse en Composantes Principales) : Pour visualiser l'espace sociologique des communes et identifier les variables les plus corrélées à la dynamique électorale via le cercle des corrélations.
 
 # Exécution du projet : 
-Pour l'exécution du projet, il faut avoir installé les dépendances (`pip install -r requirements.txt`). Ensuite, il suffit d'exécuter successivement les cellules des notebooks dans cet ordre : 
-1. **[Preparation des données](data_preparation.ipynb)** : Ce notebook récupère les sources brutes et génère le fichier de données consolidé.
-2. **[Analyse](Rapport_analyse.ipynb)** : Ce notebook contient le rapport final, les visualisations et les modèles.
+Pour l'exécution du projet, il faut avoir installé les dépendances (`pip install -r requirements.txt`). Ensuite, il suffit d'exécuter successivement les cellules du script
 
 # Données utilisées :
 
