@@ -28,7 +28,7 @@ Approche Machine Learning (Exploration) :
 * ACP (Analyse en Composantes Principales) : Pour visualiser l'espace sociologique des communes et identifier les variables les plus corrélées à la dynamique électorale via le cercle des corrélations.
 
 # Exécution du projet : 
-Pour l'exécution du projet, il faut avoir installé les dépendances (`pip install -r requirements.txt`). Ensuite, il suffit d'exécuter successivement les cellules du script
+Pour l'exécution du projet, il faut avoir installé les dépendances (`pip install -r requirements.txt`). Ensuite, il suffit d'exécuter successivement les cellules du script "Execute.ipynb"
 
 # Données utilisées :
 
@@ -44,13 +44,19 @@ Le projet repose sur le croisement de plusieurs bases de données issues de la s
 
   * [Dispositif Filosofi (Revenus)] : Données sur les revenus et les taux de pauvreté localisés à l'échelle communale pour les millésimes 2013, 2016 et 2019[]().
 https://www.insee.fr/fr/statistiques/2388572#consulter (Revenus 2013)
+https://www.insee.fr/fr/statistiques/4190004 (Revenus 2016)
 https://www.insee.fr/fr/statistiques/6036902?sommaire=6036904 (Revenus 2019)
+https://www.insee.fr/fr/statistiques/7756729?sommaire=7756859 (Revenus 2021)
 
   * [Recensement de la Population ] : Exploitation des bases "Population" et "Diplômes" pour les années 2014, 2017, 2020 et 2022. Ces fichiers permettent de suivre l'évolution de la part des cadres (CS3) et des niveaux d'éducation par commune.
 https://www.insee.fr/fr/statistiques/3137409#consulter (Population 2014)
+https://www.insee.fr/fr/statistiques/4799309 (Population 2017)
 https://www.insee.fr/fr/statistiques/7704076#dictionnaire (Population 2020)
+https://www.insee.fr/fr/statistiques/8581488?sommaire=8582771 (Population 2022)
 https://www.insee.fr/fr/statistiques/2862015#consulter (Diplôme 2014)
+https://www.insee.fr/fr/statistiques/4516086?sommaire=4516089 (Diplome 2017)
 https://www.insee.fr/fr/statistiques/7704080#consulter (Diplome 2020)
+https://www.insee.fr/fr/statistiques/8581488?sommaire=8582771 (Diplome 2022)
 
   * [Code Officiel Géographique (COG)]((https://www.data.gouv.fr/datasets/code-officiel-geographique-cog)) : Utilisation des [tables de correspondance des codes communes]() pour assurer une fusion exacte des sources malgré les fusions de communes survenues entre 2014 et 2020.
 
