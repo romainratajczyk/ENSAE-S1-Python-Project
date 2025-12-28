@@ -43,10 +43,10 @@ Le projet repose sur le croisement de plusieurs bases de données issues de la s
 * **[Données Socio-Économiques (INSEE)](https://www.insee.fr/) accessibles sur [data.gouv.fr](https://www.data.gouv.fr/)** :
 
   * [Dispositif Filosofi (Revenus)] : Données sur les revenus et les taux de pauvreté localisés à l'échelle communale pour les millésimes 2013, 2016 et 2019[]().
-https://www.insee.fr/fr/statistiques/2388572#consulter (Revenus 2013)
-https://www.insee.fr/fr/statistiques/4190004 (Revenus 2016)
-https://www.insee.fr/fr/statistiques/6036902?sommaire=6036904 (Revenus 2019)
-https://www.insee.fr/fr/statistiques/7756729?sommaire=7756859 (Revenus 2021)
+* https://www.insee.fr/fr/statistiques/2388572#consulter (Revenus 2013)
+* https://www.insee.fr/fr/statistiques/4190004 (Revenus 2016)
+* https://www.insee.fr/fr/statistiques/6036902?sommaire=6036904 (Revenus 2019)
+* https://www.insee.fr/fr/statistiques/7756729?sommaire=7756859 (Revenus 2021)
 
   * [Recensement de la Population ] : Exploitation des bases "Population" et "Diplômes" pour les années 2014, 2017, 2020 et 2022. Ces fichiers permettent de suivre l'évolution de la part des cadres (CS3) et des niveaux d'éducation par commune.
 https://www.insee.fr/fr/statistiques/3137409#consulter (Population 2014)
