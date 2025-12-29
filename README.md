@@ -19,7 +19,7 @@ Le projet articule deux approches complémentaires pour traiter la problématiqu
 Approche Économétrique :
 
 * Utilisation de modèles de Régression Linéaire Multiple (MCO) via la librairie statsmodels sur les données municipales et présidentielles.
-* : Nous analysons l'évolution du vote en fonction de l'évolution des variables socio-économiques. Cette approche en "première différence" permet de neutraliser les effets fixes invariants propres à chaque commune.
+* Nous analysons l'évolution du vote en fonction de l'évolution des variables socio-économiques. Cette approche en "première différence" permet de neutraliser les effets fixes invariants propres à chaque commune.
 * Analyse de la significativité des coefficients (p-values), examen de la multicolinéarité (Condition Number) et diagnostic des résidus.
 
 Approche Machine Learning (Exploration) :
